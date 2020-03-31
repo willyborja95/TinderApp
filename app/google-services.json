@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939655529927",
+    "firebase_url": "https://rickstinder-cdd2b.firebaseio.com",
+    "project_id": "rickstinder-cdd2b",
+    "storage_bucket": "rickstinder-cdd2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939655529927:android:eb52ca1f9d0ca9ab7145e2",
+        "android_client_info": {
+          "package_name": "com.rickstinder.rickstinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939655529927-749ps90p089bibda9oklo0n4ajjhlspj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rickstinder.rickstinderapp",
+            "certificate_hash": "cc0cf26062040842d05b90b282efe8c33937f3b9"
+          }
+        },
+        {
+          "client_id": "939655529927-afjj90h1jbuue95sjo5n0n0dooupcua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_DnEN_mNCnwunbe-Pni55ht_XV4NOQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939655529927-afjj90h1jbuue95sjo5n0n0dooupcua0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
